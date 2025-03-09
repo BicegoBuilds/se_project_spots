@@ -3,24 +3,22 @@
 ### Overview
 
 - Intro
-- Figma
-- Images
+- Description
+- Link
 - Plans
 - Video
 
 **Intro**
 
-This project is made so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+This project is named Spots. It is an interactive social media web application where users can add and remove photos, and make adjustments to their profile.
 
-**Figma**
+**Description**
 
-- [Link to the project on Figma](https://www.figma.com/file/BBNm2bC3lj8QQMHlnqRsga/Sprint-3-Project-%E2%80%94-Spots?type=design&node-id=2%3A60&mode=design&t=afgNFybdorZO6cQo-1)
+This web application was created using HTML and CSS. To account for different screen sizes, media queries are used and produce different layouts. Users will be able to edit their profile pictures, profile descriptions, like posts, and create new posts.
 
-**Images**
+**Link**
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster.
-
-Good luck and have fun!
+[Link to Spots](https://bicegobuilds.github.io/se_project_spots/)
 
 **Plans**
 
@@ -28,4 +26,4 @@ Future plans include personalizing this page to include my own pictures and/or l
 
 **Video**
 
-[Link to video](url)
+[Link to video](https://www.loom.com/share/9e6fe25dfcb840548e1ef87706e70aef?sid=6d91a46b-55da-4d4a-978a-243f78638a11)

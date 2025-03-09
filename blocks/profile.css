@@ -23,22 +23,18 @@
   line-height: 1;
   text-overflow: ellipsis;
   overflow: hidden;
-  line-clamp: 3;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
   max-width: 420px;
   font-family: "Poppins", Arial, sans-serif;
-  font-weight: 500;
-  font-size: 32px;
-  line-height: 1;
+  color: #212121;
 }
 
 .profile__description {
   margin: 0;
   text-overflow: ellipsis;
   overflow: hidden;
-  line-clamp: 3;
   display: -webkit-box;
   -webkit-line-clamp: 3;
   -webkit-box-orient: vertical;
@@ -63,6 +59,8 @@
   line-height: 1;
   opacity: 70%;
   padding: 0;
+  display: flex;
+  gap: 8px;
 }
 
 .profile__add-btn {
@@ -71,12 +69,13 @@
   color: #fcf5e5;
   width: 149px;
   height: 52px;
-  border-radius: 8%;
+  border-radius: 8px;
   margin-top: auto;
   font-family: "Poppins", Arial, sans-serif;
   font-weight: 500;
   font-size: 16px;
   line-height: 1;
+  border: none;
 }
 
 @media screen and (max-width: 627px) {
