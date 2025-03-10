@@ -76,6 +76,15 @@
   font-size: 16px;
   line-height: 1;
   border: none;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  align-items: center;
+}
+
+.profile__plus-icon {
+  height: 12px;
+  width: 12px;
 }
 
 @media screen and (max-width: 627px) {
