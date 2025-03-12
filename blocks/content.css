@@ -5,13 +5,13 @@
 @media screen and (max-width: 627px) {
   .content {
     box-sizing: border-box;
-    padding: 0;
+    padding: 0 15px;
   }
 }
 
-/* @media screen and (max-width: 400px) {
+@media screen and (max-width: 400px) {
   .content {
     box-sizing: border-box;
-    padding: 0;
+    padding: 0 15px;
   }
-} */
+}
