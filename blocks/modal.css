@@ -47,6 +47,11 @@
   padding: 0;
 }
 
+.modal__close-btn:hover {
+  cursor: pointer;
+  opacity: 100%;
+}
+
 .modal__title {
   margin: 0 0 32px;
   font-family: "Poppins", Arial, sans-serif;
@@ -74,6 +79,13 @@
   font-size: 20px;
   font-weight: 500;
   line-height: 1;
+  opacity: 40%;
+  border-color: #212121;
+}
+
+.modal__input:hover {
+  opacity: 100%;
+  cursor: pointer;
 }
 
 .modal__submit-btn {
@@ -83,6 +95,11 @@
   border: none;
   background-color: #212121;
   color: #fcf5e5;
+}
+
+.modal__submit-btn:hover {
+  opacity: 80%;
+  cursor: pointer;
 }
 
 @media screen and (max-width: 627px) {
